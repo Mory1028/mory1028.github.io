@@ -1,1 +1,8 @@
-[{"relation"
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "com.morykourouma.bepchg",
+        "sha256_cert_fingerprints": ["FC:DE:58:08:09:30:37:73:17:63:88:3C:95:80:E0:82:F4:8C:D1:2D:6B:5E:50:E3:77:2A:35:2F:59:76:36:81"]
+      }
+    }]
